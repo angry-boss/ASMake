@@ -17,7 +17,7 @@ To install ASMake in `~/Library/Script Libraries`:
     cd ASMake
     ./asmake install
 
-It is recommended that you also define an alias in `~/.bashrc`:
+It is recommended that you also define an alias in `~/.bash_profile`:
 
     alias asmake='./makefile.applescript'
 
