@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.lifepillar.LibTwo</string>
+	<string>eu.veryangryboss.LibTwo</string>
 	<key>CFBundleName</key>
 	<string>LibTwo</string>
 	<key>CFBundleShortVersionString</key>

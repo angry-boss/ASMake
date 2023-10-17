@@ -1,6 +1,6 @@
 use LibOne : script "LibOne"
 use LibTwo : script "LibTwo"
-use LibThree : script "com.lifepillar/LibThree"
+use LibThree : script "eu.veryangryboss/LibThree"
 use CompiledLib : script "CompiledLib"
 use scripting additions
 

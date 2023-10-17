@@ -2,8 +2,8 @@
 	@header ASMake
 	@abstract
 		A simple build and task AppleScript script library.
-	@author Lifepillar
-	@copyright 2014Ð2022 Lifepillar
+	@author Veryangryboss
+	@copyright 2023 Veryangryboss
 	@version 0.2.1
 	@charset macintosh
 *)
@@ -11,7 +11,7 @@ use AppleScript version "2.4"
 use scripting additions
 
 property name : "ASMake"
-property id : "com.lifepillar.ASMake"
+property id : "eu.veryangryboss.ASMake"
 property version : "0.2.1"
 property parent : AppleScript
 (*! @abstract The top-level script object. *)

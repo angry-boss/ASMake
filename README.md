@@ -13,7 +13,7 @@ ASMake requires AppleScript 2.4 or later (OS X 10.10 or later).
 
 To install ASMake in `~/Library/Script Libraries`:
 
-    git clone https://github.com/lifepillar/ASMake.git
+    git clone https://github.com/angry-boss/ASMake.git
     cd ASMake
     ./asmake install
 
@@ -36,7 +36,7 @@ The general structure of a makefile is as follows:
 
     #!/usr/bin/osascript
     use AppleScript version "2.4"
-    property parent : script "com.lifepillar/ASMake"
+    property parent : script “eu.veryangryboss/ASMake"
 
     on run argv
       continue run argv
@@ -181,7 +181,7 @@ Such options must be specified before the name of the task. For example:
 
 ## License
 
-Copyright (c) 2014–2022 Lifepillar
+Copyright (c) 2023 Veryangryboss
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

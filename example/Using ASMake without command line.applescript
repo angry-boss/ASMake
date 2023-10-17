@@ -6,7 +6,7 @@
 use AppleScript version "2.4"
 use scripting additions
 
-property ASMake : script "com.lifepillar/ASMake"
+property ASMake : script "eu.veryangryboss/ASMake"
 property parent : ASMake's TaskBase
 
 -- Here you have the full power of ASMake at your disposal!

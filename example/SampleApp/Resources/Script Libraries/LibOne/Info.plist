@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.lifepillar.LibOne</string>
+	<string>eu.veryangryboss.LibOne</string>
 	<key>CFBundleName</key>
 	<string>LibOne</string>
 	<key>CFBundleShortVersionString</key>
