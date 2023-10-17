@@ -73,7 +73,7 @@ on tasks()
 		
 		tell build to exec:{}
 		
-		set targetDir to joinPath(dir, "com.lifepillar")
+		set targetDir to joinPath(dir, "eu.veryangryboss")
 		set targetPath to joinPath(targetDir, "ASMake.scptd")
 		if pathExists(targetPath) then
 			display alert Â
@@ -101,7 +101,7 @@ on tasks()
 		property dir : my parent's joinPath(path to library folder from user domain, "Script Libraries")
 		property description : "Remove ASMake from" & space & dir
 		
-		set targetPath to joinPath(dir, "com.lifepillar/ASMake.scptd")
+		set targetPath to joinPath(dir, "eu.veryangryboss/ASMake.scptd")
 		if pathExists(targetPath) then
 			removeItem at targetPath
 		end if
